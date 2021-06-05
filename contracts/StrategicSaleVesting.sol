@@ -2,8 +2,11 @@
 
 pragma solidity >=0.6.12;
 
-import "./TokenVestingBase.sol";
+// TeraBlock $TBC Strategic Sale Tokens Vesting
+// 10% distribution at TGE | 1 month cliff | 10 months vesting
+// Learn More - https://github.com/TeraBlock/TBC-vesting-contracts
 
+import "./TokenVestingBase.sol";
 
 contract StrategicSaleVesting is TokenMultiTimeLock {
     IBEP20 internal TOKEN_ = IBEP20(0x00eaf7d8395cce52daef138d39a1cefa51b97c15ae);
