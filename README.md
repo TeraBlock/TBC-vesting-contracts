@@ -6,7 +6,7 @@ Beneficiary  | Address | Contract
 -|-|-
 Strategic Sale | [0xfF518E280fd6adA28CF5f4849c4Ca0D688f19159](https://bscscan.com/address/0xfF518E280fd6adA28CF5f4849c4Ca0D688f19159) | [0x0cB5dc08A9e2EC45FD32be25f358c6EbFc75eD0a](https://bscscan.com/address/0x0cB5dc08A9e2EC45FD32be25f358c6EbFc75eD0a)
 Private Sale | [0x5eD38Fb20C44fF735C374EA11969f371DfF512A8](https://bscscan.com/address/0x5eD38Fb20C44fF735C374EA11969f371DfF512A8) | [0x48323Db47372Dd0a9461961D3d7DDd11a0a76c4A](https://bscscan.com/address/0x48323Db47372Dd0a9461961D3d7DDd11a0a76c4A)
-Public Sale | [0x7bF1Dcc12F0F90cf454ABc53Ff580D0BFc66D934](https://bscscan.com/address/0x7bF1Dcc12F0F90cf454ABc53Ff580D0BFc66D934) | Distributed
+Public Sale | [0x7bF1Dcc12F0F90cf454ABc53Ff580D0BFc66D934](https://bscscan.com/address/0x7bF1Dcc12F0F90cf454ABc53Ff580D0BFc66D934) | Distributed via [BSCPad](https://bscpad.com/)
 Reserve | [0x1F2c02f7DE2d24A89291C49EE8756de29F2E1Fa1](https://bscscan.com/address/0x1F2c02f7DE2d24A89291C49EE8756de29F2E1Fa1) | [0x0A1d83F9F8ce56c6EAF2cDB1d61B8DBa5fa22224](https://bscscan.com/address/0x0A1d83F9F8ce56c6EAF2cDB1d61B8DBa5fa22224)
 Foundation | [0x97510bf4E809aA2de24c07225E0D66b00Ff4b62c](https://bscscan.com/address/0x97510bf4E809aA2de24c07225E0D66b00Ff4b62c) | [0xAcFb62a2CceAEDF1268ef63965EA7EC1Fd3B95FA](https://bscscan.com/address/0xAcFb62a2CceAEDF1268ef63965EA7EC1Fd3B95FA)
 Liquidity | [0x5a4d67ACB74038085e98DD85F4CccCb5972FBc92](https://bscscan.com/address/0x5a4d67ACB74038085e98DD85F4CccCb5972FBc92) | [0x8D28cB5ee1Dee1c1Adc35886aE8c9ABF2539Ce3F](https://bscscan.com/address/0x8D28cB5ee1Dee1c1Adc35886aE8c9ABF2539Ce3F)
